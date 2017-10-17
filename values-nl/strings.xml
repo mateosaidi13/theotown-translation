@@ -13,17 +13,17 @@
     <string name="welcome_agree">Ik ben het eens</string>
     <string name="welcome_content">Welkom bij TheoTown
 
-\n\nThis app is currently in development. Be aware of that there might be still some small bugs. Please do not vote down this project for those little issues. Keep in mind that it\'s free.
+\n\nDeze app is momenteel nog in betafase, er kunnen dus nog enkele bugs zijn. Deze zullen binenkort verholpen worden.
 
-\n\nIf you like this app you might support us by telling your friends about it.
+\n\nAls je deze app leuk vindt, zou je ons kunnen helpen door dit aan je vrienden te vertellen.
 
-\n\nHave fun :)</string>
+\n\nVeel plezier :)</string>
     <string name="game_date">Datum: %1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Inwoners: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Map:</string>
+    <string name="createcity_seed">Kaart:</string>
     <string name="createcity_sizesmall">Klein</string>
-    <string name="createcity_sizemiddle">Medium</string>
+    <string name="createcity_sizemiddle">Middelmatig</string>
     <string name="createcity_sizebig">Groot</string>
     <string name="createcity_sizeother">Anders</string>
     <string name="game_monthlyincome">%1$,+d$</string>
@@ -32,8 +32,8 @@
     <string name="settings_resolutionlowlow">Heel laag</string>
     <string name="settings_resolutionlow">Laag</string>
     <string name="settings_resolutionnormal">Normaal</string>
-    <string name="settings_resolutionbig">Groot</string>
-    <string name="settings_resolutionbigbig">Heel groot</string>
+    <string name="settings_resolutionbig">hoog</string>
+    <string name="settings_resolutionbigbig">Zeer groot</string>
     <string name="settings_resolution">Resolutie</string>
     <string name="dialog_nocities_title">Geen stad gevonden</string>
     <string name="dialog_nocities_text">Kan geen stad vinden.</string>
@@ -42,25 +42,25 @@
     <string name="settings_showads">Laat reclame zien</string>
     <string name="settings_drawcars">Teken auto's</string>
     <string name="settings_drawsmoke">Teken rook</string>
-    <string name="settings_transparencybuildmode">Doorzichtigheid in bouw mode</string>
-    <string name="settings_buildgrid">Rooster in bouw mode</string>
+    <string name="settings_transparencybuildmode">Doorzichtigheid in bouwmodus</string>
+    <string name="settings_buildgrid">Raster in bouwmodus</string>
     <string name="settings_doublecardrawing"> Teken dubbele auto</string>
     <string name="settings_drawwatersparkle">Teken waterglinstering</string>
-    <string name="settings_drawmapedges">Teken kaart hoeken</string>
+    <string name="settings_drawmapedges">Teken kaarthoeken</string>
     <string name="settings_hideads_title">Verberg reclame</string>
     <string name="settings_hideads_text">Als je echt de reclame wilt verbergen zou het geweldig zijn om je vrienden te vertellen over deze app.
 
 \n\nAre you sure?</string>
-    <string name="settings_hideads_yes">Ja, ik meen het</string>
+    <string name="settings_hideads_yes">Ja, ik ben zeker</string>
     <string name="settings_hideads_no">Annuleer</string>
     <string name="loadcity_errordialog_title">Laden mislukt</string>
     <string name="loadcity_errordialog_text">Kan de stad niet laden. Het bestand lijkt te zijn beschadigd.\n\nSorry.</string>
     <string name="loadcity_errordialog_cmdcancel">Annuleer</string>
-    <string name="dialog_screenshot_title">Schermfoto genomen</string>
-    <string name="dialog_screenshot_text">De foto is opgeslagen als %1$s.</string>
+    <string name="dialog_screenshot_title">Screenshot genomen</string>
+    <string name="dialog_screenshot_text">De screenshot is opgeslagen als %1$s.</string>
     <string name="dialog_screenshot_cmdok">Oke, bedankt</string>
     <string name="draftselector_titleparks">Parken</string>
-    <string name="draftselector_titlepublics">Openbaar</string>
+    <string name="draftselector_titlepublics">Openbare gebouwen</string>
     <string name="draftselector_titleenergy">Elektriciteit</string>
     <string name="draftselector_titlewater">Water</string>
     <string name="draftselector_titleschool">Onderwijs</string>
@@ -69,7 +69,7 @@
     <string name="draftselector_titlefiredepartment">Brandweer</string>
     <string name="draftselector_cmdbuild">Bouw</string>
     <string name="draftselector_price">Prijs: %1$,d$</string>
-    <string name="draftselector_monthlyprice">Maandelijke prijs: %1$,d$</string>
+    <string name="draftselector_monthlyprice">Maandelijkse prijs: %1$,d$</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Verwijder</string>
     <string name="loadcity_deletedialog_text">Weet je zeker dat je het wilt verwijderen?</string>
@@ -84,19 +84,19 @@
     <string name="savewaiting_title">Stad opslaan</string>
     <string name="loadwaiting_title">Stad laden</string>
     <string name="dialog_invalidcityname_title">Ongeldige naam</string>
-    <string name="dialog_invalidcityname_text">Gebruik alsjeblieft een andere naam for je stad. Het is niet toegsetsaan niets in te vullen.</string>
-    <string name="dialog_invalidcityname_cmdok">Oke</string>
+    <string name="dialog_invalidcityname_text">Gebruik alsjeblieft een andere naam for je stad. Het is niet toegestaan om niets in te vullen.</string>
+    <string name="dialog_invalidcityname_cmdok">Oké</string>
     <string name="dialog_hugesize_title">Enorme map</string>
-    <string name="dialog_hugesize_text">Deze Formaat is een experiment and werkt misschien not op jouw apparaat is size is just experimental and may not work on your device. Do you really need a huge map?</string>
+    <string name="dialog_hugesize_text">Dit Formaat is een experiment, en werkt misschien not op jouw apparaat.</string>
     <string name="dialog_hugesize_cmdyes">Ja</string>
     <string name="dialog_hugesize_cmdno">Nee</string>
     <string name="draft_church00_title">Kerk</string>
     <string name="draft_church00_text">Elke dorpje heeft een kerk nodig.</string>
     <string name="draft_townhall00_title">Gemeentehuis</string>
-    <string name="draft_townhall00_text">Een grote stad heeft een gemeentehuis nodig. Inwoners zullen het leuk vinden.</string>
-    <string name="draft_wire00_title">Stroomkabels</string>
-    <string name="draft_wire00_text">Gebruik deze stroomkabels om jouw energiecentrales te verbinden met jouw stad.</string>
-    <string name="draft_windturbine00_title">Windmolen</string>
+    <string name="draft_townhall00_text">Een grote stad heeft een gemeentehuis nodig.</string>
+    <string name="draft_wire00_title">Hogespanningskabels</string>
+    <string name="draft_wire00_text">Gebruik deze hogespanningskabels om jouw energiecentrales te verbinden met jouw stad.</string>
+    <string name="draft_windturbine00_title">Windturbine</string>
     <string name="draft_windturbine00_text">Een windmolen produceert geluid maar geen vervuiling.</string>
     <string name="draft_coalplant00_title">Kolencentrale</string>
     <string name="draft_coalplant00_text">De kolencentrale produceert veel stroom, maar is slecht voor het milieu.</string>
@@ -798,33 +798,33 @@
     <string name="settings_experimental">Experimental features</string>
     <string name="about_thanks">Special thanks to</string>
     <string name="about_community">And the rest of our community</string>
-    <string name="dialog_tosandbox_title">Sandbox mode</string>
+    <string name="dialog_tosandbox_title">Sandboxmodus</string>
     <string name="dialog_tosandbox_text">Convert city into sandbox mode?\n\nThis cannot be undone!</string>
     <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="requirement_rank">At least %1$s (%2$,d)</string>
-    <string name="ca_wastedisposal_text">Waste disposal: %1$,d/%2$,d</string>
-    <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
-    <string name="draftselector_titledecoration">Decoration</string>
-    <string name="draftselector_titlewastedisposal">Waste disposal</string>
-    <string name="draftselector_titlemilitary">Military</string>
-    <string name="draft_zonemilitary_title">Military Area</string>
-    <string name="draft_mltry_road00_title">Military Road</string>
-    <string name="draft_mltry_hq00_title">Headquarters</string>
-    <string name="draft_mltry_baracks00_title">Baracks</string>
+    <string name="ca_wastedisposal_text">Afval verwerkt: %1$,d/%2$,d</string>
+    <string name="ca_bodydisposal_text">Begrafenis: %1$,d/%2$,d</string>
+    <string name="draftselector_titledecoration">Decoraties</string>
+    <string name="draftselector_titlewastedisposal">Afvalverwerking</string>
+    <string name="draftselector_titlemilitary">Militair</string>
+    <string name="draft_zonemilitary_title">Militair domein</string>
+    <string name="draft_mltry_road00_title">Militaire wegen</string>
+    <string name="draft_mltry_hq00_title">Hoofdkwartier</string>
+    <string name="draft_mltry_baracks00_title">Barakken</string>
     <string name="draft_mltry_depot00_title">Depot</string>
-    <string name="draft_mltry_tankbase00_title">Tank Base</string>
-    <string name="draft_mltry_rocketlauncher00_title">Rocket launcher</string>
-    <string name="draft_landfill00_title">Landfill</string>
-    <string name="draft_wasteincinerator00_title">Waste incinerator</string>
-    <string name="draft_firedepartment02_title">Main fire station</string>
-    <string name="draft_cemetery00_title">Cemetery</string>
+    <string name="draft_mltry_tankbase00_title">Tankdepot</string>
+    <string name="draft_mltry_rocketlauncher00_title">Raketlanceerplatform</string>
+    <string name="draft_landfill00_title">Storthoop</string>
+    <string name="draft_wasteincinerator00_title">Verbrandingsoven</string>
+    <string name="draft_firedepartment02_title">Hoofdbrandweerkazerne</string>
+    <string name="draft_cemetery00_title">Begraafplaats</string>
     <string name="draft_crematory00_title">Crematorium</string>
     <string name="rank_newrank">Congratulations, your city %1$s reached a new rank:</string>
     <string name="rank_reward">You get %1$s as reward.</string>
-    <string name="rank_available">Now available:</string>
+    <string name="rank_available">Nu beschikbaar:</string>
     <string name="rank_title">New city rank</string>
     <string name="ci_rank_title">Ranks</string>
-    <string name="draft_firedepartment02_heli00_title">Helipad</string>
+    <string name="draft_firedepartment02_heli00_title">Helikopterplatform</string>
     <string name="draft_firedepartment02_heli00_text">Helicopters may land and start here.\n\nIncreses the range of the fire department.</string>
     <string name="settings_reset_title">Reset settings</string>
     <string name="settings_reset_text">All settings will be lost. Are you sure?</string>
@@ -874,7 +874,7 @@
     <string name="statistics_buildings">Buildings</string>
     <string name="statistics_roads">Roads</string>
     <string name="statistics_rails">Rails</string>
-    <string name="statistics_cars">Cars</string>
+    <string name="statistics_cars">Auto's</string>
     <string name="control_auto">Auto</string>
     <string name="control_on">On</string>
     <string name="control_off">Off</string>
